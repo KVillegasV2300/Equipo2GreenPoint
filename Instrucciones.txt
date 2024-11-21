@@ -12,4 +12,4 @@ Paginas de portes (html):
 --------------Analisis---------------------
 Pagina principal(html):
     hipervinculos
-    imagenes y breve descripcion de "acerca de"
+    imagenes y breve descripcion de "acerca de", y lo que se inventen
