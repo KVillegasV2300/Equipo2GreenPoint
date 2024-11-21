@@ -1,0 +1,166 @@
+nav {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center; 
+    background-color: #ddd0ac;    
+    padding: 10px;    
+    border: 1px solid #ccc;
+    position: relative;
+    top: 100px;
+}
+
+nav a {
+    text-decoration: none;      
+    color: black;            
+    font-size: 18px;             
+    font-weight: bold;            
+    padding: 0 15px;               
+    transition: color 0.3s ease;   
+    white-space: nowrap; 
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+.infoamericano {
+    background-color: antiquewhite;
+    width: 920px;
+    height: 1200px;
+    position: relative;
+    left: 920px;
+    bottom: 505px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Jugador {
+    position: relative; 
+    top: 125px;
+    width: 900px;
+    height: 600px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    padding-top: 10px;
+    position: relative;
+    top: 10px;
+    bottom: 20px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.apar1 {
+    position: relative;
+    left: 20px;
+    width: 400px;
+    text-align: justify;
+    background-color: #faedc8;
+    padding: 2px;
+}
+
+.apar2 {
+    position: relative;
+    left: 470px;
+    width: 430px;
+    height: 1100px;
+    bottom: 900px;
+    background-color: #faedc8;
+    padding: 2px;
+}
+
+.NFL {
+    display: flex;
+    justify-content: space-between;
+}
+
+.NFL img {
+    width: 200px;
+    height: 100px;
+}
+
+.NFL p {
+    position: relative;
+    top: 15px;
+    font-weight: bold;
+}
+
+.NCAA {
+    display: flex;
+    justify-content: space-between;
+}
+
+.NCAA img {
+    width: 150px;
+    height: 80px;
+    padding: 20px;
+}
+
+.NCAA p {
+    position: relative;
+    top: 15px;
+    font-weight: bold;
+    width: 500px;
+}
+
+.CFL {
+    display: flex;
+    justify-content: space-between;
+}
+
+.CFL img {
+    width: 200px;
+    height: 100px;
+}
+
+.CFL p {
+    position: relative;
+    top: 15px;
+    font-weight: bold;
+}
+
+.SB {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 280px;
+    bottom: 130px;
+}
+
+h3 {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.camp ul {
+    font-weight: bold;
+    width: 250px;
+}
+
+.camp li {
+    font-weight: bold;
+}
+
+.GC {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 280px;
+    bottom: 50px;
+}
+
+.campeonato {
+    position: relative;
+    bottom: 50px;
+}
