@@ -83,6 +83,18 @@ body{
     border: 10px
 }
 
+.infovolei {
+    width: 1100px;
+    height: 1200px;
+    height: auto;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: 10px
+}
+
 .apar1, .apar2 {
     border: 10px solid antiquewhite; /* Líneas para ver cada elemento */
     padding: 10px;
