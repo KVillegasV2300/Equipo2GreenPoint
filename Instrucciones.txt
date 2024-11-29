@@ -1,0 +1,15 @@
+--------------Diseño-----------------------
+css:
+    pagina principal
+    pafinas (generico)
+--------------Programacion-----------------
+Paginas de portes (html):
+    Basquet
+    Voleibol
+    Futbol
+    Americano
+    Tenis
+--------------Analisis---------------------
+Pagina principal(html):
+    hipervinculos
+    imagenes y breve descripcion de "acerca de", y lo que se inventen
